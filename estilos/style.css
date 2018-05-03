@@ -1,0 +1,16 @@
+* {
+  background: #FFFFF0;
+  font-family: 'Raleway', sans-serif;
+}
+
+  .Subtitle {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+}
+
+  .Title {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
